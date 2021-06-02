@@ -1,8 +1,8 @@
 # pandas_challenge
 
-Heroes of Pymoli
+**Heroes of Pymoli**
 
-Observable Trends:
+**Observable Trends:**
 
 * After comparing the purchasing data by age and gender, its clear the majority of players are male (84.03%) between the ages of 20-24.   
 * Male players have higher number of purchases, while female players and players who have not disclosed their gender spend more on each purchase.  Female players and non-disclosed players have a higher average purchase than that of all players.  Gaining more players that are female and non-disclosed will boost sales.
