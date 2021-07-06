@@ -1,6 +1,6 @@
 # pandas_challenge
 
-## Heroes of Pymoli
+# Heroes of Pymoli
 
 **Observable Trends:**
 
